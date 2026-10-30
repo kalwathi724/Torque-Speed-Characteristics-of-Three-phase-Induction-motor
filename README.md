@@ -29,10 +29,12 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 9.	Analyze and record your inference.
 
 
+
 ## Simulated Output waveform
 
+<img width="1332" height="747" alt="WhatsApp Image 2026-10-30 at 10 30 28 AM" src="https://github.com/user-attachments/assets/37b6f49c-f3c2-49d7-82b5-02fa62a64563" />
 
 ## RESULT.
-
+Torque Speed Characteristics of DC Series Motor is simulated and analyzed successfully
 
 
